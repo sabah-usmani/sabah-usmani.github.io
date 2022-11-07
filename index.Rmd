@@ -1,5 +1,5 @@
 ---
-title: "Sabah Usmani"
+title: "Sabah Usmani, MCP"
 output: 
   html_document:
     toc: true
@@ -11,7 +11,7 @@ output:
 
 Sabah Usmani is an PhD student in the Climate and Health Program at Columbia University’s Mailman School of Public Health. She is an urban planner and interdisciplinary researcher from India with experience across geographic scales in air pollution and health disparities, transportation, energy and water, and climate mitigation and adaptation planning in India, USA, Ecuador, and Malaysia. Her research interests include neighborhood influences on environmental health and wellbeing, spatial/social inequities in access to and quality of urban services and health outcomes, and applied urban analytics and data science for health and climate policy in cities. Her previous work experience includes organizations such as Environmental Defense Fund, New York City Housing Authority, MIT’s Tata Center for Technology & Design, and Mahindra Lifespaces. Sabah has a Master in City Planning from Massachusetts Institute of Technology, and Bachelor of Science in Civil Engineering (minor in Architecture) from Columbia University. She is also an Agents of Change in Environmental Justice Fellow.
 
-A description of my training and experience can be found [here](about.html). 
+A description of my training and experience can be found [here](experience.html). 
 My Linkedin page can be found [here](https://www.linkedin.com/in/sabahusmani/).
 
 ![](https://agentsofchangeinej.org/wp-content/uploads/2022/09/EDF-Presentation-Sabah-Usmani.jpg)
